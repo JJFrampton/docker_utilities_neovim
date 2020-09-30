@@ -2,8 +2,8 @@
 
 ## Clone
   ```git clone <this repo>```
-## build
+## Build
   ```docker build -t neovim .```
 
-## run
+## Run
   ```docker run -it neovim sh```
