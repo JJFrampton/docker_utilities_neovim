@@ -22,27 +22,6 @@ npm install \
 	coc-snippets \
 	coc-python \
 	https://github.com/andys8/vscode-jest-snippets \
-	# coc-html \
-	# coc-css \
-	# coc-floaterm \
-	# coc-bookmark \
-	# coc-git \
-	# coc-go \
-	# coc-markdownlint \
-	# coc-rls \
-	# coc-rust-analyzer \
-	# coc-sh \
-	# coc-sql \
-	# coc-eslint \
-	# coc-tsserver \
-	# coc-json \
-	# coc-vimlsp \
-	# coc-yank \
-	# coc-xml \
-	# coc-yaml \
-	# coc-todolist \
-	# coc-tasks \
-	# coc-texlab \
 	--global-style --ignore-scripts --no-bin-links --no-package-lock --only=prod
 
 # Others to try:
