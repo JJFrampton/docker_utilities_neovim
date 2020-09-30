@@ -1,9 +1,9 @@
-# docker_utilities_neovim
+# Neovim
 
-clone
-
-build
+## Clone
+  ```git clone <this repo>```
+## build
   ```docker build -t neovim .```
 
-run
+## run
   ```docker run -it neovim sh```
