@@ -1,4 +1,4 @@
-# Neovim
+# Neovim + Coc
 
 ## Clone
   ```git clone <this repo>```
